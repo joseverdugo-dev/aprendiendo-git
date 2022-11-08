@@ -1,0 +1,87 @@
+commit 0d38b08f22e0c20fffdaf2095d39b992d7ac97c0
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 12:11:56 2022 +0100
+
+    Agregando párrafos
+
+commit 85a2bfd590773c7709590c1832e76a5fa36226ff
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:44:30 2022 +0100
+
+    Agregando las estaciones del año
+
+commit a81fbb7cb5319966ba764eb328fb3272d27e4387
+Merge: 837052f 13db39e
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:39:38 2022 +0100
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 13db39e5ac328622408c0c7bebdaae7b35a722e7
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:33:26 2022 +0100
+
+    Agregando index.js al index.html
+
+commit 837052f98b65589fe3853b604f4e68cf05cf98db
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:30:06 2022 +0100
+
+    Agregando style.css al index.html
+
+commit 208186a85abdc39a80405dd8b896a7f2cb8b1401
+Merge: b79c9e8 b17cca1
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:20:36 2022 +0100
+
+    Merge branch 'js'
+
+commit b17cca1ca6cb24c4bf0e979e74f01318507414c0
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:15:36 2022 +0100
+
+    Creando index.js
+
+commit b79c9e8bf0e6327987c7aaa01e0ded65acb38912
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:11:14 2022 +0100
+
+    Creando style.css
+
+commit 112175260b144373a233b85b12625a1cdde3c4db
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sun Nov 6 11:05:57 2022 +0100
+
+    Creando index.html
+    
+    git commit - m Creando
+
+commit f1a6a466b4da0230fe9ab8b732f10559ccd0a47d
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Sat Nov 5 20:46:10 2022 +0100
+
+    Ignorando archivos .exe
+
+commit 4f87f3f2c03fa152abf0f7eb453809a02b8c5bbf
+Author: José Antonio Verdugo Ardila <93588018+joseverdugo-dev@users.noreply.github.com>
+Date:   Sat Nov 5 20:10:31 2022 +0100
+
+    Creando licencia del repositorio
+
+commit 8eada55612ba899ee2fecbdaadaf02978e6ba202
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Fri Nov 4 11:51:21 2022 +0100
+
+    Agregando más contenido al README
+
+commit ca25b75cc6a7011a58c9ea699e0453017ea514e3
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Thu Nov 3 19:40:47 2022 +0100
+
+    Agregando contenido inicial al README
+
+commit 2ffa8e59751b7161582269f59a5c64390baf83f1
+Author: Jose Antonio Verdugo <joseantonioverdugoardila@gmail.com>
+Date:   Thu Nov 3 19:36:14 2022 +0100
+
+    Primer commit 😄
